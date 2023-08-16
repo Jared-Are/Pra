@@ -1,0 +1,17 @@
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\bin\Debug\net6.0-windows\Tienda de abarrotes.exe
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\bin\Debug\net6.0-windows\Tienda de abarrotes.deps.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\bin\Debug\net6.0-windows\Tienda de abarrotes.runtimeconfig.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\bin\Debug\net6.0-windows\Tienda de abarrotes.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\bin\Debug\net6.0-windows\Tienda de abarrotes.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.csproj.AssemblyReference.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda_de_abarrotes.frmTienda.resources
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.csproj.GenerateResource.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.AssemblyInfoInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.AssemblyInfo.cs
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.csproj.CoreCompileInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\refint\Tienda de abarrotes.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\Tienda de abarrotes.genruntimeconfig.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Tienda de abarrotes\obj\Debug\net6.0-windows\ref\Tienda de abarrotes.dll

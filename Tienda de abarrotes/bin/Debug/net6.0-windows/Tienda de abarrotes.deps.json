@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tienda de abarrotes/1.0.0": {
+        "runtime": {
+          "Tienda de abarrotes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tienda de abarrotes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

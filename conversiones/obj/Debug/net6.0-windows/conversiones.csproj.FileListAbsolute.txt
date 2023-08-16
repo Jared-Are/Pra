@@ -1,0 +1,17 @@
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\bin\Debug\net6.0-windows\conversiones.exe
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\bin\Debug\net6.0-windows\conversiones.deps.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\bin\Debug\net6.0-windows\conversiones.runtimeconfig.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\bin\Debug\net6.0-windows\conversiones.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\bin\Debug\net6.0-windows\conversiones.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.csproj.AssemblyReference.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.frmConversiones.resources
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.csproj.GenerateResource.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.AssemblyInfoInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.AssemblyInfo.cs
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.csproj.CoreCompileInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\refint\conversiones.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\conversiones.genruntimeconfig.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\conversiones\obj\Debug\net6.0-windows\ref\conversiones.dll
