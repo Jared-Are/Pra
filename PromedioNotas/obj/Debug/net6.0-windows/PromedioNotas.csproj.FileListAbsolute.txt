@@ -1,0 +1,17 @@
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\bin\Debug\net6.0-windows\PromedioNotas.exe
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\bin\Debug\net6.0-windows\PromedioNotas.deps.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\bin\Debug\net6.0-windows\PromedioNotas.runtimeconfig.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\bin\Debug\net6.0-windows\PromedioNotas.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\bin\Debug\net6.0-windows\PromedioNotas.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.csproj.AssemblyReference.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.frmPromedioNotas.resources
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.csproj.GenerateResource.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.AssemblyInfoInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.AssemblyInfo.cs
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.csproj.CoreCompileInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\refint\PromedioNotas.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\PromedioNotas.genruntimeconfig.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\PromedioNotas\obj\Debug\net6.0-windows\ref\PromedioNotas.dll
