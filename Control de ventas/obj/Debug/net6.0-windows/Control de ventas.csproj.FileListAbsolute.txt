@@ -1,0 +1,17 @@
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\bin\Debug\net6.0-windows\Control de ventas.exe
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\bin\Debug\net6.0-windows\Control de ventas.deps.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\bin\Debug\net6.0-windows\Control de ventas.runtimeconfig.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\bin\Debug\net6.0-windows\Control de ventas.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\bin\Debug\net6.0-windows\Control de ventas.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.csproj.AssemblyReference.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control_de_ventas.frmControlVentas.resources
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.csproj.GenerateResource.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.AssemblyInfoInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.AssemblyInfo.cs
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.csproj.CoreCompileInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\refint\Control de ventas.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\Control de ventas.genruntimeconfig.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Control de ventas\obj\Debug\net6.0-windows\ref\Control de ventas.dll

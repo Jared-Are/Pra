@@ -1,0 +1,17 @@
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.csproj.AssemblyReference.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.frmCapital.resources
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.csproj.GenerateResource.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.AssemblyInfoInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.AssemblyInfo.cs
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.csproj.CoreCompileInputs.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\bin\Debug\net6.0-windows\Capital.exe
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\bin\Debug\net6.0-windows\Capital.deps.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\bin\Debug\net6.0-windows\Capital.runtimeconfig.json
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\bin\Debug\net6.0-windows\Capital.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\bin\Debug\net6.0-windows\Capital.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\refint\Capital.dll
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.pdb
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\Capital.genruntimeconfig.cache
+C:\Users\Josec\OneDrive\Escritorio\entregar\Capital\obj\Debug\net6.0-windows\ref\Capital.dll
