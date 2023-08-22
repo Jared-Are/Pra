@@ -77,7 +77,7 @@ namespace AgendaActividades
 
         private void frmActivities_FormClosing(object sender, FormClosingEventArgs e)
         {
-            DialogResult r = MessageBox.Show("Guaardar cambios?", "Guardar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            DialogResult r = MessageBox.Show("Guaardar cambios?", "Guardar", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
             if (r == DialogResult.Yes)
             {
                 if (!this.SaveChanges())
@@ -112,6 +112,48 @@ namespace AgendaActividades
         private void txtActiv_TextChanged(object sender, EventArgs e)
         {
             _HasChange = true;
+        }
+
+        private void lstAct_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            LoadSelectedActivities();
+        }
+
+        private void LoadSelectedActivities()
+        {
+            if(lstAct.SelectedIndex >= 0  && lstAct.SelectedIndex < lstAct.Items.Count)
+            {
+                txtActiv.Text = lstAct.Items[lstAct.SelectedIndex].ToString();
+
+                btnSave.Enabled = true;
+                txtActiv.Enabled = true;
+                btnDelete.Enabled = true;
+                btnCancel.Enabled = true;
+
+                _isNewAct = false;
+
+            }
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            Cancel();
+        }
+
+        private void Cancel()
+        {
+            if(_HasChange)
+            {
+                if (MessageBox.Show("Guardar Cambios?", "Guardar", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                {
+
+                    if(!SaveChanges())
+                    {
+                        return;
+                    }
+                }
+            }
+            Reset();
         }
 
         private bool SaveChanges()
