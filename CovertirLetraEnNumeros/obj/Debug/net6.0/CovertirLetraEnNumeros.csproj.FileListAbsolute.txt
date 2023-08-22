@@ -1,0 +1,15 @@
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\bin\Debug\net6.0\CovertirLetraEnNumeros.exe
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\bin\Debug\net6.0\CovertirLetraEnNumeros.deps.json
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\bin\Debug\net6.0\CovertirLetraEnNumeros.runtimeconfig.json
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\bin\Debug\net6.0\CovertirLetraEnNumeros.dll
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\bin\Debug\net6.0\CovertirLetraEnNumeros.pdb
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.csproj.AssemblyReference.cache
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.AssemblyInfoInputs.cache
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.AssemblyInfo.cs
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.dll
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\refint\CovertirLetraEnNumeros.dll
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.pdb
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\CovertirLetraEnNumeros.genruntimeconfig.cache
+C:\Users\JADPA-26\source\repos\Tarea\CovertirLetraEnNumeros\obj\Debug\net6.0\ref\CovertirLetraEnNumeros.dll
